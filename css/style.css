@@ -248,3 +248,38 @@
 					margin-bottom: 8px;
 					border-bottom: 1px solid white;
 				}
+				
+				
+				.profile {
+					margin-right: 18%;
+                                        margin-left: 18%;
+					width: 64%;
+                                        margin-top: 40px;
+				}
+				
+				.profile-img {
+					width: 25%;
+					height: 120px;
+					border: 1px solid white;
+                                        float: left;
+				}
+                                
+                                .profile-head {
+                                    text-align: left;
+                                    
+                                }
+                                
+                                .profile-name {
+                                    float: left;
+                                    margin-left: 25px;
+                                }
+                                
+                                .profile-title {
+                                    color: #FF9900;
+                                    font-size: 18px;
+                                }
+                                
+                                .profile-stats {
+                                    margin-top: 30px;
+                                    font-size: 18px;
+                                }
