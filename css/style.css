@@ -197,6 +197,11 @@
 					padding-bottom: 20px;
 					font-size: 20px;
 				}
+                                
+                                .line-graph .tick {
+                                    color: white;
+                                }
+                                
 				
 				path { 
 						stroke: steelblue;
